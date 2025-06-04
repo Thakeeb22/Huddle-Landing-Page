@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-9tKmUhbI2G)
 - Live Site URL: [Live site URL](https://thakeeb22.github.io/Huddle-Landing-Page/)
 
 ## My process
