@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site URL](https://thakeeb22.github.io/Huddle-Landing-Page/)
 
 ## My process
 
@@ -67,7 +67,7 @@ Linkedin Courses: https://t.me/Linkedin_Learning
 
 ## Author
 
-- Website - [Muhammad Thakeeb Muhammad](https://www.your-site.com)
+- Website - [Muhammad Thakeeb Muhammad](https://thakeeb22.github.io/Huddle-Landing-Page/)
 - Frontend Mentor - [@Thakeeb22](https://www.frontendmentor.io/profile/Thakeeb22)
 - Twitter - [@MuhammadThakeeb](https://x.com/MuhammadThakeeb?s=09)
 
